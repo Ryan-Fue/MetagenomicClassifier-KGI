@@ -12,7 +12,11 @@ __pycache__/
 *.9
 *.0
 
-
+# Large data files
+*.csv
+*.tsv
+*.faa
+*.fasta
 
 # macOS metadata
 .DS_Store
