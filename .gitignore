@@ -1,5 +1,18 @@
-*.faa
-*.fasta
-*.csv
-*.txt
+# Python compiled files
+__pycache__/
+*.pyc
 
+# Temporary files
+*.tmp
+*.log
+*.o
+*.a
+*.11
+*.12
+*.9
+*.0
+
+
+
+# macOS metadata
+.DS_Store
