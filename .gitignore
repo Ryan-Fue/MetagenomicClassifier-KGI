@@ -17,6 +17,7 @@ __pycache__/
 *.tsv
 *.faa
 *.fasta
+bacteriaDB/venv/
 
 # macOS metadata
 .DS_Store
