@@ -17,7 +17,18 @@ __pycache__/
 *.tsv
 *.faa
 *.fasta
+*.db
 bacteriaDB/venv/
+bacteriaDB/ncbi_dataset/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Editor backup files
+*.save
+
+
+
 
 # macOS metadata
 .DS_Store
