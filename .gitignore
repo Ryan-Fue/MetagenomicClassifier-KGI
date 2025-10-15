@@ -19,6 +19,7 @@ __pycache__/
 *.faa
 *.fasta
 *.db
+*.txt
 bacteriaDB/venv/
 bacteriaDB/ncbi_dataset/
 
